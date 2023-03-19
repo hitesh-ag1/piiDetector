@@ -2,9 +2,11 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
 # C extensions
 *.so
+
+sakila_master.db
+PII_detection/
 
 # Distribution / packaging
 .Python
@@ -19,6 +21,7 @@ lib64/
 parts/
 sdist/
 var/
+venv/
 wheels/
 pip-wheel-metadata/
 share/python-wheels/
